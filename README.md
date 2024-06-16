@@ -1,4 +1,4 @@
-0:0
+0:00
 
 sudo gcc -o srt srt.c
 
