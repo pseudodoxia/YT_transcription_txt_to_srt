@@ -1,6 +1,10 @@
+0:00 
+
+sudo gcc -o srt srt.c
+
 0:04
 
-Linux bash script srt_convert.sh uses C program srt.c
+Linux bash script srt_convert.sh uses C program srt
 
 0:07
 
@@ -15,19 +19,25 @@ to file_name.srt which contains subtitles in srt format.
 
 1
 
-00:00:04,000 --> 00:00:07,000 
+00:00:00,000 --> 00:00:04,000 
 
-Linux bash script srt_convert.sh uses C program srt.c
-
+sudo gcc -o srt srt.c
 
 2
+
+00:00:04,000 --> 00:00:07,000 
+
+Linux bash script srt_convert.sh uses C program srt
+
+
+3
 
 00:00:07,000 --> 00:00:14,000 
 
 to convert file_name.text from Youtube transcription box
 
 
-3
+4
 
 00:00:14,000 --> 00:00:17,000 
 
