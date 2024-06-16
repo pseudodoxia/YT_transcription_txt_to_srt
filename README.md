@@ -20,6 +20,7 @@ Files:
 1. srt_convert.sh 
 2. file_name.txt
 3. srt 
+
 should be in the same directory.
 
 
