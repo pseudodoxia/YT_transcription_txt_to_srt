@@ -25,7 +25,7 @@ Instruction:
 ################
 
  
-Example input .txt format from Youtube transcription box:
+Example - input .txt format from Youtube transcription box:
 
 0:00
 
@@ -47,7 +47,7 @@ to file_name.srt which contains subtitles in srt format.
 
 
 
-#########################################################
+#################
 
 Output .srt format:
 
