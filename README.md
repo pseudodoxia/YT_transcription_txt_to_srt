@@ -27,7 +27,7 @@ Instruction:
    
       srt
    
-   should be in the same directory.
+      should be in the same directory.
    
 3. run the script typing ./srt_convert.sh
 
