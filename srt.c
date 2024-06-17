@@ -11,7 +11,7 @@ int main() {
 	b = 0;
 	nr_sub = 0;
 
-	while (( c = getchar()) != EOF){	// this idea comes from 
+	while (( c = getchar()) != EOF){	// this idea comes from  The ANSI C Programming Language by Brian W. Kernighan (see Readme.md)
 		licznik = 0;
 		tab[a] = c;
 
