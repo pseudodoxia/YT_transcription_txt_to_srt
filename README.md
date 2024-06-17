@@ -8,7 +8,7 @@ Linux bash script srt_convert.sh uses C-compiled program srt
 
 0:07
 
-to convert file_name.text from Youtube transcription box
+to convert file_name.txt from Youtube transcription box
 
 0:14
 
@@ -43,7 +43,7 @@ Linux bash script srt_convert.sh uses C-compiled program srt
 
 00:00:07,000 --> 00:00:14,000 
 
-to convert file_name.text from Youtube transcription box
+to convert file_name.txt from Youtube transcription box
 
 
 4
