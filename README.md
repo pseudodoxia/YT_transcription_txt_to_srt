@@ -2,7 +2,7 @@ Linux bash script srt_convert.sh uses C-compiled program srt to convert file_nam
 
 Instruction:
 
-1. create file_name.txt and copy content of Youtube transcription box to this file
+1. create file_name.txt and copy the content of Youtube transcription box to this file
     
 2. sudo gcc -o srt srt.c
    
