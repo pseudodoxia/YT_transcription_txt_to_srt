@@ -1,18 +1,17 @@
 #include <stdio.h>
 
-#define TAB	150
 
 int a,b,c,d,sek,sek_2,sek_3,licznik,nr_sub;
-int tab[100000];
-int subs[150];
-int napisz(int ile_sek);
+int tab[100000];		// estimated number of charakters in file_name.txt
+int subs[150];			// estimated number of subtitles in file_name.srt
+int napisz(int ile_sek);	// function(absolute number of seconds) returns time 00:00:00,000 format 
 
 int main() {
 	a = 0;
 	b = 0;
 	nr_sub = 0;
 
-	while (( c = getchar()) != EOF){
+	while (( c = getchar()) != EOF){	// this idea comes from 
 		licznik = 0;
 		tab[a] = c;
 
