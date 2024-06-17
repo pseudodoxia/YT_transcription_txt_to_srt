@@ -1,3 +1,5 @@
+Input .txt format:
+
 0:00
 
 sudo gcc -o srt srt.c
@@ -33,6 +35,8 @@ Instruction:
 
 
 #########################################################
+
+Output .srt format:
 
 1
 
