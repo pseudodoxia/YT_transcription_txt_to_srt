@@ -1,4 +1,4 @@
-Input .txt format:
+Input .txt format from Youtube transcription box:
 
 0:00
 
