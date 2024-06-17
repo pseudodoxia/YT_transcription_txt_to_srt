@@ -19,6 +19,7 @@ Instruction:
 4. run the script typing ./srt_convert.sh
 5. Script srt_convert.sh is a modification of the script prepare_mp4.sh from https://bitbucket.org/MattHawkinsUK/rpispy-video-capture-unit/src/master/
 6. code was written on Rapspberry Pi Zero WH 512MB RAM - WiFi + BT 4.1
+   
    under 2019-04-08-raspbian-stretch-lite http://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/ 
 
 
