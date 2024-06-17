@@ -26,7 +26,7 @@ int main() {
 			{sek = (tab[a-1] - 48) + ((tab[a-2] - 48)*10) + ((tab[a-4] - 48)*60) + ((tab[a-5] - 48)*60*10) + ((tab[a-7] - 48)*3600); licznik = 1;}	// counting ...
 		
 
-		sek_2 = sek;	// establishing boundaries of single subtitle
+		sek_2 = sek;	// establishing time boundaries of single subtitle
 
 		if (licznik == 1){ 	// branching algorithm in case of detection desirable strings listed above
 			if (nr_sub > 0)
@@ -39,7 +39,7 @@ int main() {
 			}
 			nr_sub++;
 
-			for (d = 0; d < 130; d++)
+			for (d = 0; d < 130; d++)	// erasing table before starting the next string of characters  
 				subs[d] = 0;
 			b = 0;
 			printf("\n");
