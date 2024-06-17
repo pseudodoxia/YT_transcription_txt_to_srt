@@ -32,6 +32,8 @@ Instruction:
          should be in the same directory.
    
 3. run the script typing ./srt_convert.sh
+4. Script srt_convert.sh is a modification of the script prepare_mp4.sh from https://bitbucket.org/MattHawkinsUK/rpispy-video-capture-unit/src/master/
+   
 
 
 #########################################################
