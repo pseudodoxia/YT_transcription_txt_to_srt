@@ -25,9 +25,7 @@ Instruction:
 ################
 
  
-Example-
-
-input .txt format from Youtube transcription box:
+Example input .txt format from Youtube transcription box:
 
 0:00
 
