@@ -16,12 +16,14 @@ to file_name.srt which contains subtitles in srt format.
 
 0:17
 
-Files:
-1. srt_convert.sh 
-2. file_name.txt
-3. srt 
-
-should be in the same directory.
+Instruction:
+1. sudo gcc -o srt srt.c
+2. files:
+      srt_convert.sh 
+      file_name.txt
+      srt 
+   should be in the same directory.
+3. run the script typing ./srt_convert.sh
 
 
 #########################################################
