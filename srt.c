@@ -11,8 +11,8 @@ int main() {
 	b = 0;
 	nr_sub = 0;
 
-	while (( c = getchar()) != EOF){	// idea from the book  "The ANSI C Programming Language" by Brian W. Kernighan (see README.md)
-		licznik = 0;
+	while (( c = getchar()) != EOF){	// reading text string from input file_name.txt 
+		licznik = 0;			// idea from the book  "The ANSI C Programming Language" by Brian W. Kernighan (see README.md)
 		tab[a] = c;
 
 		/* detecting particular strings in order to establish time boundaries and counting absolute number of seconds  */
@@ -45,7 +45,7 @@ int main() {
 			printf("\n");
 			}
 		else {
-			subs[b] = c;	// reading text string from input file_name.txt 
+			subs[b] = c;	// transfering text string from input file_name.txt to an array
 			b++;
 			sek_3 = sek_2;	// establishing boundaries of single subtitle
 		}
