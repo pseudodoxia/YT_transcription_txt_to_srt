@@ -1,9 +1,12 @@
 Linux bash script srt_convert.sh uses C-compiled program srt to convert file_name.txt from Youtube transcription box to file_name.srt which contains subtitles in srt format.
 
 Instruction:
-1. sudo gcc -o srt srt.c
+
+1. create file_name.txt and copy content of Youtube transcription box to this file
+    
+2. sudo gcc -o srt srt.c
    
-2. files:
+3. files:
    
       srt_convert.sh
    
@@ -13,8 +16,8 @@ Instruction:
    
          should be in the same directory.
    
-3. run the script typing ./srt_convert.sh
-4. Script srt_convert.sh is a modification of the script prepare_mp4.sh from https://bitbucket.org/MattHawkinsUK/rpispy-video-capture-unit/src/master/
+4. run the script typing ./srt_convert.sh
+5. Script srt_convert.sh is a modification of the script prepare_mp4.sh from https://bitbucket.org/MattHawkinsUK/rpispy-video-capture-unit/src/master/
 
 
 
