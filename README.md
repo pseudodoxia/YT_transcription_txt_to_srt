@@ -22,7 +22,7 @@ Instruction:
    
    under 2019-04-08-raspbian-stretch-lite http://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/
 
-7. literature:  The ANSI C Programming Language by Brian W. Kernighan, Dennis M. Ritchie  section 1.5.1-4 p. 18-22
+7. literature:  The ANSI C Programming Language by Brian W. Kernighan, Dennis M. Ritchie;  chapters 1.5.1-4; pages 18-22
    
    https://archive.org/details/the-ansi-c-programming-language-by-brian-w.-kernighan-dennis-m.-ritchie.org/page/18/mode/2up
 
